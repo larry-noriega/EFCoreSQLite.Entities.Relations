@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreSQLite.Entities.Relations", "EFCoreSQLite.Entities.Relations\EFCoreSQLite.Entities.Relations.csproj", "{E804CAB2-52EB-4BE2-BB76-7F3DC5147127}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCollections", "EFCollections\EFCollections.csproj", "{01970176-81BB-47A4-A27B-20D98348BF30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E804CAB2-52EB-4BE2-BB76-7F3DC5147127}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E804CAB2-52EB-4BE2-BB76-7F3DC5147127}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E804CAB2-52EB-4BE2-BB76-7F3DC5147127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01970176-81BB-47A4-A27B-20D98348BF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01970176-81BB-47A4-A27B-20D98348BF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01970176-81BB-47A4-A27B-20D98348BF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01970176-81BB-47A4-A27B-20D98348BF30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
