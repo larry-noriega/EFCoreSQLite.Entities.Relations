@@ -17,6 +17,6 @@ A .NET Core console app that performs data access against a SQLite database usin
 - One to Many relationship.
 - Many to Many relationship.
 
-<sub>Further information:</sub>
-- <sub>[Foreign and principal keys in relationships](https://learn.microsoft.com/en-gb/ef/core/modeling/relationships/foreign-and-principal-keys) - Microsoft Docs.</sub>
-- <sub>[Introduction to relationships](https://learn.microsoft.com/en-gb/ef/core/modeling/relationships) - Microsoft Docs.</sub>
+<sub>Further information - Microsoft Docs:</sub>
+- <sub>[Introduction to relationships](https://learn.microsoft.com/en-gb/ef/core/modeling/relationships)</sub>
+  - <sub>[Foreign and principal keys in relationships](https://learn.microsoft.com/en-gb/ef/core/modeling/relationships/foreign-and-principal-keys)</sub>
